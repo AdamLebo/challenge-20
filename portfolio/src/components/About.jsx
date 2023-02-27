@@ -11,7 +11,7 @@ const About = () => {
                 <div>
                 </div>
                 <div>
-                    <p>Hi, I'm Adam, a full stack developer with a passion for creating elegant, efficient, 
+                    <p className='pl-4'>Hi, I'm Adam, a full stack developer with a passion for creating elegant, efficient, 
                     and user-friendly web applications. When I'm not coding, you can find me playing hockey. 
                     I'm excited to continue expanding my skills and working on projects that make a difference
                     in people's lives. 
